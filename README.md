@@ -1,3 +1,5 @@
+<img src="https://github.com/bucks98/bucks98/blob/main/programming%20GIF.gif" width="800" >
+
 # Hi there, I'm Bagavath! 👋
 
 An industry-ready **Java Full-Stack Developer** based in Chennai, India. I specialize in building robust, high-performance backend ecosystems using **Java** and **Spring Boot**, paired with responsive frontend applications utilizing **React.js** and **TypeScript**.
